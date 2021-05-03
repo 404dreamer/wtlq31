@@ -1,0 +1,9 @@
+,token,tag
+0,1,I-ORG
+1,2,B-LOC
+2,3,I-LOC
+3,4,I-PER
+4,5,B-ORG
+5,6,O
+6,7,B-PER
+7,0,PAD
